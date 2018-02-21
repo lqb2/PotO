@@ -1,8 +1,8 @@
-title: Your Title
+title: Pedagogy of the Oppressed
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  Online Book Club
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "lqb2.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
@@ -12,23 +12,23 @@ facebook:
 logo: "../css/2016_style/img/icon-large.png"
 
 social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
+  name: MIT Community Innovators Lab
+  link: "https://www.facebook.com/MITCoLab"
 
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+# google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_2016_pages', '_2017_pages']
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com
+    url: https://www.facebook.com/MITCoLab
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/MITCoLab
 
 # Build settings
 markdown: kramdown
