@@ -2,7 +2,7 @@ title: Pedagogy of the Oppressed
 description: > # this means to ignore newlines until "baseurl:"
   Online Book Club
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "lqb2.co" # the base hostname & protocol for your site
+url: "lqb2.co/PotO" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
